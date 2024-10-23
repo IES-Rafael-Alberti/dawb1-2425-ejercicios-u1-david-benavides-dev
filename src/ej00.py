@@ -19,7 +19,7 @@
 # debes mostrar un mensaje de error: "ERROR: Solo existen programas del 1 al 30".
 # Al finalizar el programa seleccionado (o después de mostrar el error), debe aparecer 
 # el mensaje "Presiona ENTER para continuar...". 
-# Tras presionar ENTER, la pantalla debe limpiarse y el programa debe volver a solicitar el número 
+# Tras presionar ENTER, la pantalla debe limpiarse y el programa debe volver a solicitar el número
 # del programa.
 # 
 # Salir del menú: El programa debe finalizar si el usuario introduce una cadena 
