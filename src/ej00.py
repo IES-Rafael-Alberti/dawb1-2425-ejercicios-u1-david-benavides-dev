@@ -7,7 +7,7 @@
 # 
 # Validación del número del programa:
 # 
-# Si introduce un número entre 1 y 30, se mostrará el título del programa para 
+# Si introduce un número entre 1 y 30, se mostrará el título del programa para
 # indicar lo que hace, por ejemplo, "ej01: Saludo". Luego, debes preguntar si desea ejecutar el programa.
 # La respuesta afirmativa debe aceptar cualquiera de las 
 # siguientes variantes: s, si, S, SI, y, YES, Y, yes o combinaciones con espacios antes, 
